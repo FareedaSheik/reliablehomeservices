@@ -1,0 +1,14 @@
+# Environment / secrets
+.env
+*.key
+*.pem
+
+# Composer / PHP libraries (optional)
+vendor1/mpdf/mpdf/data/collations/*.php
+
+# Secret font file
+Project/admin/vendor1/mpdf/mpdf/ttfonts/UnBatang_0613.ttf
+
+# OS / Editor files
+*.DS_Store
+*.log
